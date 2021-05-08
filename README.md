@@ -15,7 +15,7 @@
 ### 최단 경로
 
 ### 그래프 이론
-* [서로소 집합(Disjoint Sets)](/그래프%20이론/서로소%20집합(Disjoint%20Sets)_유니온%20파인드(Union-Find).md) 
+* [서로소 집합(Disjoint Sets)](/그래프%20이론/서로소%20집합(Disjoint%20Sets)_유니온%20파인드(Union-Find).md) : 서로소 집합을 이용한 사이클 판별
 ### 해시
 
 ### 조합론
