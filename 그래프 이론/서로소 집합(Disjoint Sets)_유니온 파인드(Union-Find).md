@@ -173,7 +173,7 @@ int main() {
     }
 }
 
-- [백준 골드 4 20040번 사이클 게임](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%5B%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%5D%2020040%EB%B2%88.cpp)
+[백준 골드 사이클 게임](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%5B%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%5D%2020040%EB%B2%88.cpp)
 
 [백준 골드 4 1717번 집합의 표현](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C_%EC%A7%91%ED%95%A9%EC%9D%98%ED%91%9C%ED%98%84(1717%EB%B2%88).cpp)
 
