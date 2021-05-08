@@ -38,7 +38,7 @@
 
 1. 간선 데이터를 **비용**에 따라 **오름차순으로 정렬**
 2. 간선을 하나씩 확인하며 현재의 간선이 사이클을 발생시키는지 확인한다.
-   1. 사잌르을 발생하지 않는 경우 최소 신장 트리에 포함시킨다.
+   1. 사이클을 발생하지 않는 경우 최소 신장 트리에 포함시킨다.
    2. 사이클을 발생하는 경우 최소 신장 트리에 포함시키지 않는다.
 
 3. 모든 간선에 대하여 2의 과정을 반복한다.
@@ -125,4 +125,10 @@ int main() {
   * 모든 도시를 `연결`할 때, `최소한의 비용`으로 연결할 때 사용  
 
 
-
+- [(실버 3) 9372번 상근이의 여행](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC_%20%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89(9372%EB%B2%88).cpp)
+- [(골드 4) 1197번 최소 스패닝 트리](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC_%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC(1197%EB%B2%88).cpp)
+- [(골드 4) 4386번 별자리 만들기](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC_%EB%B3%84%EC%9E%90%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0(4386%EB%B2%88).cpp)
+- [(골드 4) 1774번 우주신과의 교감](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC_%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%EC%9D%98%20%EA%B5%90%EA%B0%90(1774%EB%B2%88).cpp)
+- [(골드 4) 1647번 도시 분할 계획](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%5B%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%5D%201647%EB%B2%88.cpp)
+- [(골드 1) 2887번 행성 터널](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC_%ED%96%89%EC%84%B1%20%ED%84%B0%EB%84%90(2887%EB%B2%88).cpp)
+  
