@@ -33,6 +33,8 @@
   
   * 나중에 우선순위 큐에서 꺼낸 다음에 다시 음수 부호(-)를 붙여서 원래의 값으로 돌리는 방식을 사용할 수 있다. 
 
+[다익스트라 알고리즘(Dijkstra's algorithm) 동작 과정](/최단%20경로/다익스트라%20알고리즘(Dijkstra's%20algorithm)%20동작%20과정.md)
+
 ```c++
 #include <iostream>
 #include <vecotr>
