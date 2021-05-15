@@ -37,6 +37,8 @@
 #include <iostream>
 #include <vecotr>
 #include <queue>
+#include <cstring>
+
 #define INF 1e9 // 무한을 의미하는 값으로 10억을 설정
 
 using namespace std;
@@ -101,6 +103,7 @@ int main(void) {
 
     // 최단 거리 테이블을 모두 무한으로 초기화
     fill(d, d + 100001, INF);
+    //memset(d, INF, sizeof(d));
     
     // 다익스트라 알고리즘을 수행
     dijkstra(start);
