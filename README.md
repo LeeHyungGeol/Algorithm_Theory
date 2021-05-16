@@ -21,6 +21,9 @@
 * [플로이드 워샬 알고리즘(Floyd-Warshall Algorithm)](/최단%20경로/플로이드%20워샬%20알고리즘(Floyd-Warshall%20Algorithm).md) : '모든 지점에서 다른 모든 지점까지의 최단 경로를 모두 구해야 하는 경우'
   * 노드의 개수가 N개일 때, 매 단계마다 `점화식에 맞게` 2차원 리스트를 갱신한다. 
 
+* [벨만-포드 알고리즘(Bellman-Ford's Algorithm)](/최단%20경로/벨만-포드%20알고리즘(Bellman-Ford's%20Algorithm).md) : 음의 간선이 포함된 상황에서도 사용, 최단 거리를 구할 수 있다. 
+  * **`음의 간선의 순환을 감지`** 할 수 있다. 
+
 ### 그래프 이론
 * [서로소 집합(Disjoint Sets)](/그래프%20이론/서로소%20집합(Disjoint%20Sets)_유니온%20파인드(Union-Find).md) : 서로소 집합을 이용한 사이클 판별
 * [최소 신장 트리(Minimum Spanning Tree)](/그래프%20이론/최소%20신장%20트리(Minimum%20Spanning%20Tree).md) : 가장 적은 비용으로 모든 노드를 연결
