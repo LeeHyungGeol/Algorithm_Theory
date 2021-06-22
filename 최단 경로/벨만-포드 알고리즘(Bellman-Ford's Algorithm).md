@@ -171,5 +171,8 @@ int main(void) {
 
 - **음수 간선이 포함된 상황에서의 최단 거리 문제**
 
+- [(백준 골드 4) 1865번 웜홀](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%5B%EB%B0%B1%EC%A4%80%20%EA%B3%A8%EB%93%9C%204%5D%201865%EB%B2%88.cpp)
+  - [(백준 골드 4) 1865번 웜홀 문제 링크](https://www.acmicpc.net/problem/1865)
+
 - [(백준 골드 4) 11657번 타임머신](https://github.com/LeeHyungGeol/Algorithm_BaekJoon/blob/master/%EB%B0%B1%EC%A4%80_if%EB%AC%B8/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C_%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0(%EB%B2%A8%EB%A7%8C%ED%8F%AC%EB%93%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)(%EC%9D%8C%EC%9D%98%20%EA%B0%84%EC%84%A0%EC%9D%B4%20%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0).cpp)
   - [백준 11657번 타임머신 문제 링크](https://www.acmicpc.net/problem/11657)
